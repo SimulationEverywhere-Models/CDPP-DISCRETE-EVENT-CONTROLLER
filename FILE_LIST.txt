@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+Root Directory:
+------------------------------------------------------------------------------
+	DEMultipleModelControl.doc (Final Report)
+	DEVSmodelsForm.doc	   (form)
+------------------------------------------------------------------------------
+FOLDER CD++Files:
+------------------------------------------------------------------------------
+	All files to be imported indo CD++:
+			.cpp 
+			.ev  
+			.h   
+			.ma  
+			.bat (only scripts)
+			.txt (Read Me Files for scripts)
+------------------------------------------------------------------------------
+FOLDER PrototypeController
+------------------------------------------------------------------------------
+	Maltab Scripts testing Discrete Event approach (before using CD++):
+			DEVController.m
+			interp2ndLast.m
+			interpLast.m
+			Quant2Event.m
+			quantize.m
+------------------------------------------------------------------------------
+FOLDER CD++PlotResults
+------------------------------------------------------------------------------
+	Contains .mat save data files:
+			CDPlusSim1Data.mat		
+			(Results of Simulatinf in CD++ without switching)
+			CDPlusSim2Data.mat
+			(Results of Simulatinf in CD++ with switching)
+	Contains .mat save data files:
+			CDPlusPlotSim1Data.m 
+			(plots CDPlusSim1Data.mat)
+			CDPlusPlotSim2Data.m
+			(plots CDPlusSim2Data.mat)
+------------------------------------------------------------------------------
